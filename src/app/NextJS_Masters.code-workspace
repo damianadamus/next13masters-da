@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "kurs @ e7ca703",
+			"uri": "gitlens://7b22726566223a2265376361373033316635666238303465323962643930353666343031316334653936363435613137222c227265706f50617468223a222f55736572732f64616d69616e2f4465736b746f702f4e6578744a535f4d6173746572732f6b757273227d/Users/damian/Desktop/NextJS_Masters/kurs?{\"ref\":\"e7ca703\"}"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"files.associations": {
+			"*.css": "tailwindcss"
+		}
+	}
+}
